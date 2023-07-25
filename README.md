@@ -17,4 +17,4 @@ _______
 
 <mark>Jira</mark>, <mark>Qase.io</mark>, <mark>Postman</mark>, <mark>SQL</mark>, <mark>Fiddler</mark>, <mark>Swagger</mark>, <mark>Trello</mark>, <mark>SoapUI</mark>,
 <mark>Android Studio</mark>, <mark>xCode</mark>, <mark>Charles</mark>,<mark>Jira</mark>, <mark>Git</mark>, <mark>Chrome DevTools</mark>...
-"Jira"
+'Jira'
