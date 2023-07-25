@@ -4,6 +4,7 @@
 <p>Привет! Меня зовут Наталья, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и опытов.</p>
 
+_______
 <h3>Навыки и технологии</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/> 
