@@ -1,7 +1,7 @@
 <h1>Портфолио: инженер по тестированию</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" ширина="10"/>
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" ширина="10"/>
 </div>
 <h3>Обо мне</h3>
 <p>Привет! Меня зовут Наталья, я начинающий тестировщик.
