@@ -15,6 +15,6 @@ _______
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<code>**Jira**</code>,<code>**Qase.io**</code>, <code>**Postman**</code>, <mark>SQL</mark>, <mark>Fiddler</mark>, <mark>Swagger</mark>, <mark>Trello</mark>, <mark>SoapUI</mark>,
-<mark>Android Studio</mark>, <mark>xCode</mark>, <mark>Charles</mark>,<mark>Jira</mark>, <mark>Git</mark>, <mark>Chrome DevTools</mark>...
-<code>**Jira**</code>
+<code>**Jira**</code>,<code>**Qase.io**</code>, <code>**Postman**</code>, <code>**SQL**</code>, <code>**Fiddler**</code>, <code>**Swagger**</code>, <code>**Trello**</code>, <code>**SoapUI**</code>, <code>**Android Studio**</code>, <code>**Charles**</code>, <code>**Git**</code>, <code>**Chrome DevTools**</code>...
+
+______
