@@ -22,3 +22,12 @@ _______
 
 ______
 <h3>Проекты</h3>
+
+<h5>Проект 1: 5</h5>
+Что нужно было сделать:
+<ol>
+  <li>First item 'сделать тест-план'</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
