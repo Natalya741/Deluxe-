@@ -69,5 +69,5 @@ ______
 - ознакомилась с требованиями к документации, проверка на соответствие с макетами
 [Ссылка на Документацию](https://skyengpublic.notion.site/baf9be1f58194ee684c3cb58db73e1a2)
 - проведение тестировании требования
-   - [Анализа требований для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
-   - [Анализа требований для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
+   - [Анализа требования для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
+   - [Анализа требования для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
