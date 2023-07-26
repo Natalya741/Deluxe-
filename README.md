@@ -76,4 +76,6 @@ ______
    - [Чек-лист для проверки функционала раздела "Ситуации";](https://docs.google.com/spreadsheets/d/1I98Bw_aOtOXco8yhUwQb9ZdKArfufwfbPdF7C-N2LRU/edit#gid=0)
    - [Чек-лист для проверки функционала раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1I98Bw_aOtOXco8yhUwQb9ZdKArfufwfbPdF7C-N2LRU/edit#gid=0)
 - провела анализ выбора устройства
-- составила отчет о тестировании
+- составление отчета о тестировании prodact
+
+[Ссылка на проект]([https://eremina.atlassian.net/l/cp/QfG4RPRi](https://drive.google.com/drive/folders/1aL0C0AHFrpG-UNgVGVhxmlIEBJBIV-MQ)https://drive.google.com/drive/folders/1aL0C0AHFrpG-UNgVGVhxmlIEBJBIV-MQ)
