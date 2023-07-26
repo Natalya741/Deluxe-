@@ -64,3 +64,10 @@ ______
   <li>Анализ выбора устройства</li>
   <li>Написать отчет о тестировании</li>
 </ol>
+
+#### Как решала: 
+- ознакомилась с требованиями к документации, проверка на соответствие с макетами
+[Ссылка на Документацию](https://skyengpublic.notion.site/baf9be1f58194ee684c3cb58db73e1a2)
+- провела тестирование требований
+[Анализ требований для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
+[Анализ требований для раздела "Видеопрактика";]([https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=183279646)https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=183279646)
