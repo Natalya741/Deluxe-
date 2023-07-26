@@ -78,4 +78,4 @@ ______
 - провела анализ выбора устройства
 - составление отчета о тестировании prodact
 
-[Ссылка на проект]([https://eremina.atlassian.net/l/cp/QfG4RPRi](https://drive.google.com/drive/folders/1aL0C0AHFrpG-UNgVGVhxmlIEBJBIV-MQ)https://drive.google.com/drive/folders/1aL0C0AHFrpG-UNgVGVhxmlIEBJBIV-MQ)
+[Ссылка на проект](https://drive.google.com/drive/folders/1aL0C0AHFrpG-UNgVGVhxmlIEBJBIV-MQ)
