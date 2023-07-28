@@ -42,7 +42,7 @@ ______
 - составление тест-плана
 - составление функционального чек-листа для нового функционала
 - провела тестирование
-- составление отчета о тестировании prodact
+- составление отчета о тестировании 
 
 [Ссылка на проект](https://eremina.atlassian.net/l/cp/QfG4RPRi)
 
@@ -70,10 +70,10 @@ ______
    - [Анализа требования для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1agQodZmX4dgVmgbvYH2rsvSA9RWFs2O9_x1WpU4kvDA/edit?usp=sharing)
 - составление тест-плана
 - составление функционального чек-листа
-   - [Чек-лист для проверки функционала раздела "Ситуации";](https://docs.google.com/spreadsheets/d/1I98Bw_aOtOXco8yhUwQb9ZdKArfufwfbPdF7C-N2LRU/edit#gid=0)
-   - [Чек-лист для проверки функционала раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1I98Bw_aOtOXco8yhUwQb9ZdKArfufwfbPdF7C-N2LRU/edit#gid=0)
+   - [Чек-лист для проверки функционала раздела "Ситуации";](https://docs.google.com/spreadsheets/d/1hmVjuaY0IH0qmD6P9Zc-70Aj2yWkP1Fu19VwUBoKw7A/edit?usp=sharing)
+   - [Чек-лист для проверки функционала раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1hmVjuaY0IH0qmD6P9Zc-70Aj2yWkP1Fu19VwUBoKw7A/edit?usp=sharing)
 - провела анализ выбора устройства
-- составление отчета о тестировании prodact
+- составление отчета о тестировании 
 
 [Ссылка на проект](https://docs.google.com/document/d/1wtTVwLnXCG6SPeXnWGlpzy2NC6WH832sQIfHhR5Ow0s/edit)
 
@@ -106,7 +106,7 @@ ______
 - Составление тест-плана
 - Составление функционального  и нефункционального чек-листа
 - Проведение баг-репортов
-- Составление отчета о тестировании prodact
+- Составление отчета о тестировании 
 
 [Ссылка на проект](https://eremina.atlassian.net/l/cp/oC1XapiL)
 
