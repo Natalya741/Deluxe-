@@ -66,8 +66,8 @@ ______
 #### Как решала: 
 - ознакомлении с требованиями к документация, проверка на соответствии with layouts
 - проведение тестировании требования
-   - [Анализа требования для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
-   - [Анализа требования для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
+   - [Анализа требования для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1agQodZmX4dgVmgbvYH2rsvSA9RWFs2O9_x1WpU4kvDA/edit?usp=sharing)
+   - [Анализа требования для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1agQodZmX4dgVmgbvYH2rsvSA9RWFs2O9_x1WpU4kvDA/edit?usp=sharing)
 - составление тест-плана
 - составление функционального чек-листа
    - [Чек-лист для проверки функционала раздела "Ситуации";](https://docs.google.com/spreadsheets/d/1I98Bw_aOtOXco8yhUwQb9ZdKArfufwfbPdF7C-N2LRU/edit#gid=0)
