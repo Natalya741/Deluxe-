@@ -13,7 +13,6 @@ _______
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
@@ -36,7 +35,6 @@ ______
 
 #### Как решала: 
 - ознакомлении с требованиями к функционал «Личные события» на вкладке «Расписание»
- [Документацию к проекту](https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0)
 - проанализировала стейкхолдеров, их потребности
 - создала приемочные тест-кейсы для каждого стейкхолдера
 - провела тестирование документации
@@ -67,7 +65,6 @@ ______
 
 #### Как решала: 
 - ознакомлении с требованиями к документация, проверка на соответствии with layouts
-[Ссылка на Документацию](https://skyengpublic.notion.site/baf9be1f58194ee684c3cb58db73e1a2)
 - проведение тестировании требования
    - [Анализа требования для раздела "Ситуация";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
    - [Анализа требования для раздела "Видеопрактика";](https://docs.google.com/spreadsheets/d/1Uo2i24rsfoWZns42zGcxzFL0P2X10LM6vEohcNIPoYw/edit?pli=1#gid=0)
@@ -105,7 +102,6 @@ ______
 
 #### Как решала: 
 - Ознакомлении с требованиями к документация, проверка на соответствии with layouts
-[Ссылка на Документацию](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260)
 - Составление тестовой документации
 - Составление тест-плана
 - Составление функционального  и нефункционального чек-листа
