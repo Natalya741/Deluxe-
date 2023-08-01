@@ -44,7 +44,7 @@ ______
 - провела тестирование
 - составление отчета о тестировании 
 
-[Ссылка на проект](https://eremina.atlassian.net/l/cp/QfG4RPRi)
+[Ссылка на проект](https://drive.google.com/file/d/1i8Jt8PSgcy5bp9TwHa2CQh9aomiegwKp/view?usp=sharing)
 
 #### Выводы (итоги): 
 <ol>
