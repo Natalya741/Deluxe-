@@ -108,7 +108,7 @@ ______
 - Проведение баг-репортов
 - Составление отчета о тестировании 
 
-[Ссылка на проект](https://eremina.atlassian.net/l/cp/oC1XapiL)
+[Ссылка на проект](https://drive.google.com/file/d/1sispbWFjDIrzF7llWN1s3Ap88CdVgU3w/view?usp=sharing)
 
 #### Выводы (итоги): 
 <ol>
